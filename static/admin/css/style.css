@@ -1,0 +1,9 @@
+@import url(../../base/css/fonts.css);
+
+:root {
+    --base-font: "Vazirmatn";
+}
+
+body {
+    font-family: var(--base-font);
+}
